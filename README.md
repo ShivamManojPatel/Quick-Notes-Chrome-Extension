@@ -30,4 +30,5 @@ A lightweight Chrome extension that lets you **take quick notes from any website
 Author
 -------------------------------------
 **Shivam Patel** <br>
+Computer Science Grad Student | Developer | Designer <br>
 LinkedIn: https://www.linkedin.com/in/shivampatel19/

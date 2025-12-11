@@ -25,3 +25,9 @@ A lightweight Chrome extension that lets you **take quick notes from any website
 1. **Download or Clone this Repository**
    ```bash
    git clone https://github.com/ShivamManojPatel/quick-notes.git
+
+-------------------------------------
+Author
+-------------------------------------
+**Shivam Patel** <br>
+LinkedIn: https://www.linkedin.com/in/shivampatel19/
